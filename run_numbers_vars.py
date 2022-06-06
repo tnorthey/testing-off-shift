@@ -10,3 +10,6 @@ folder = '/cds/data/drpsrcf/cxi/cxilx9320/scratch/hdf5/smalldata/'
 
 ne_theory_file = 'Ne_total.txt'
 sf6_theory_file = 'SF6_Debye_Total.npy'
+
+# ignore first azav indices close to centre of jungfrau
+indexstart = 3
