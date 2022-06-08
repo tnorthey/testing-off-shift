@@ -12,4 +12,4 @@ ne_theory_file = 'Ne_total.txt'
 sf6_theory_file = 'SF6_Debye_Total.npy'
 
 # ignore first azav indices close to centre of jungfrau
-indexstart = 3
+indexstart = 5
